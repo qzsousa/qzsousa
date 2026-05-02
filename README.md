@@ -22,5 +22,5 @@
 
 ###
 
-<div> ![GitHub Streak](https://streak-stats.demolab.com?user=qzsousa&theme=dracula) </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=qzsousa&theme=dracula)
 ###
