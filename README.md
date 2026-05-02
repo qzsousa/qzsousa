@@ -30,10 +30,9 @@
   
 
 ## Estatísticas do GitHub
-<>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzsousa)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=qzsousa&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="450px"/>
+</p>
 
 <p align="center">
   <!-- Ícone/link do GitHub -->
