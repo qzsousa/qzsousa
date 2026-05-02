@@ -30,7 +30,9 @@
   
 
 ## Estatísticas do GitHub
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzsousa&theme=discord_old_blurple)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzsousa&theme=discord_old_blurple" alt="Profile Details" />
+</p>
 
   <p align="center">
   <!-- Ícone/link do GitHub -->
