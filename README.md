@@ -31,7 +31,7 @@
 - Faço o curso técnico em **Desenvolvimento de Sistemas** na **Etec de Itaquera** – aprendendo desde lógica de programação até bancos de dados e desenvolvimento web.
   
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=qzsousa&theme=dracula" alt="GitHub Streak" />
@@ -39,21 +39,18 @@
 
 ---
 
-## 🌐 Onde me encontrar
-
 <p align="center">
   <!-- Ícone/link do GitHub -->
   <a href="https://github.com/qzsousa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
   <!-- Ícone/link do LinkedIn -->
   <a href="https://www.linkedin.com/in/pablo-nascimento-3bb92234a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <!-- Ícone/link do Instagram -->
   <a href="https://instagram.com/qzsousa_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
   </a>
 </p>
 
-> ⚠️ **Importante:** substitua os links `https://linkedin.com/in/seu-usuario` e `https://instagram.com/seu-usuario` pelos seus links reais. O do GitHub já está com `qzsousa`, mas confira se está correto.
