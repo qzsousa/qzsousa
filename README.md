@@ -30,9 +30,7 @@
   
 
 ## Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=qzsousa&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="450px"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzsousa&theme=discord_old_blurple)
 
 <p align="center">
   <!-- Ícone/link do GitHub -->
