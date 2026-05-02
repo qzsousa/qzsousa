@@ -31,10 +31,7 @@
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qzsousa&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzsousa&layout=donut-vertical&theme=dracula" width="300px"/>
-</p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzsousa)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
