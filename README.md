@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=qzsousa&theme=dracula) /> 
+<div align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=qzsousa&theme=dracula);
 </div>
 ###
