@@ -1,8 +1,8 @@
 
 
 <h2 align="center">
-  🎓 Estagiário de Tecnologia – SEDUC Leste 3<br>
-  📖 Desenvolvimento de Sistemas – Etec de Itaquera
+  Estagiário de Tecnologia – SEDUC Leste 3<br>
+  Desenvolvimento de Sistemas – Etec de Itaquera
 </h2>
 
 
@@ -25,10 +25,10 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🔧 Atualmente sou **estagiário no setor de tecnologia** da **Secretaria de Educação Leste 3 (SEDUC Leste 3)**, onde atuo com suporte, manutenção e pequenos desenvolvimentos.
-- 📚 Faço o curso técnico em **Desenvolvimento de Sistemas** na **Etec de Itaquera** – aprendendo desde lógica de programação até bancos de dados e desenvolvimento web.
+- Atualmente sou **estagiário no setor de tecnologia** da **Secretaria de Educação Leste 3 (SEDUC Leste 3)**, onde atuo com suporte, manutenção e pequenos desenvolvimentos.
+- Faço o curso técnico em **Desenvolvimento de Sistemas** na **Etec de Itaquera** – aprendendo desde lógica de programação até bancos de dados e desenvolvimento web.
   
 
 ## 📊 Estatísticas do GitHub
