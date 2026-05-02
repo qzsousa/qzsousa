@@ -30,10 +30,10 @@
   
 
 ## Estatísticas do GitHub
-<p align="center">
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qzsousa&theme=discord_old_blurple)
-</p>
-<p align="center">
+</div>
+  <p align="center">
   <!-- Ícone/link do GitHub -->
   <a href="https://github.com/qzsousa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
