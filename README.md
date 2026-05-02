@@ -1,5 +1,5 @@
 <h3 align="center" style="font-family: 'Courier New'">
-  <i class="fa-brands fa-dev"></i>Estagiário de Tecnologia – SEDUC Leste 3<br>
+  <img src="https://fontawesome.com/icons/dev?f=brands&s=solid" height="25">Estagiário de Tecnologia – SEDUC Leste 3<br>
   <i class="fa-solid fa-graduation-cap"></i> Desenvolvimento de Sistemas – Etec de Itaquera
 </h3>
 
