@@ -88,7 +88,3 @@ Projetos em destaque do meu GitHub:
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
   </a>
 </p>
-
-<p align="center">
-  <img src="banner.png" alt="Banner" width="450" />
-</p>
